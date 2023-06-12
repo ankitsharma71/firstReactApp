@@ -1,5 +1,9 @@
+// JSX - HTML + jaascript
+// extended HTML
+// user defined tag vs pre defined tag
+// <App/>
 function App() {
-  return "Hello world";
+  return <h1>hello world</h1>;
 
 }
 
